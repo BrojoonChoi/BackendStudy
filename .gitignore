@@ -1,0 +1,10 @@
+coverage
+node_modules
+dist
+migrations
+logs
+.env*
+package-lock.json
+ormconfig.json
+.log
+Dockerfile
